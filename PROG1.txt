@@ -1,0 +1,10 @@
+Ventana https://dle.rae.es/ventana
+Reloj https://dle.rae.es/reloj
+Nube https://dle.rae.es/nube
+Camino https://dle.rae.es/camino
+Fuego https://dle.rae.es/fuego
+Espejo https://dle.rae.es/espejo
+Musica https://dle.rae.es/musica
+Arena https://dle.rae.es/arena
+Silencio https://dle.rae.es/silencio
+Bosque https://dle.rae.es/bosque
